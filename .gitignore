@@ -1,0 +1,10 @@
+
+.DS_Store
+*.jar
+*.properties
+*.jar
+FlightSearchAPI/mvnw
+*.xml
+FlightSearchAPI/.mvn/wrapper/maven-wrapper.jar
+FlightSearchAPI/mvnw.cmd
+FlightSearchAPI/.mvn/wrapper/maven-wrapper.jar
